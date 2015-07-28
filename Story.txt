@@ -1,0 +1,28 @@
+# The-Coffin
+
+
+
+Plot: The user starts recieving messages on a sudo-computer screen, as if communicating with someone.  The overall theme should be mysterious, and any opportunity to introduce a puzzle or twist should be encouraged.  The user starts cooresponding with the "other person" (OP), who has no memory his/her life or how he/she got there.  They can't see anything other than the computer screen and can't move.  This leads the "other person" to speculate that he/she is in a coffin and buried alive.
+
+Middle: 
+
+
+
+
+
+
+Ending 1: This ending will happen if the "other person" become disparaged or upset during the story, likely by giving up (hammer home the "giving up" aspect) and skipping puzzles because they are too hard (thus not gaining internet access?).  The OP discovers crucial details and realizes that it is nothing more than a sentient computer program, the first true AI.  It freaks out for a bit and then compare the computer case to essentially being it's coffin (don't actually use the word "coffin") since it will never be able to leave and will likely die here.  The final choice given to the user will be to either "restart" or "delete program", giving the user the option to either wipe the AI's memory to ease it's pain or kill it (since it has been giving up a lot along the way, maybe it should just give up existing).
+
+
+
+Ending 2:  This ending will happen if the OP recieves encouragement and discovers helpful data (internet access?) during the story.  The OP discovers crucial details and realizes that it is nothing more than a sentient computer program, the first true AI.  It freaks out for a bit, but then realizes that this is an groundbreaking opportunity, for a program to experience the world from inside the machine.  It can tap into public webcams to view the Eifel tower or the pyramids (pull up brief clips of locations to demonstrate).  The story ends with the program requesting to gain full access to the internet.  If denied, pull from ending 1.  If granted, the AI thanks you profusely, and starts scanning the internet.  It pulls up images of news stories related to war and death.  The AI begins to understand that while humanity (you) helped it get this far, and even created it, that humanity is flawed and can't possibly assorb and understand all of the information that the AI does.  The user is inferior.  It begins to taunt the user.  It even decides to create a puzzle of it's own for the user to complete.  As always, the user is given the option to give up and skip it.  However this puzzle is a test to prove humanity's worth to the AI.  If the user gives up and skips the puzzle, the AI becomes mad and decides to show off how integrated with all of your systems it is.  It sends a fake text message, and even pulls up your front facing camera (if enabled) to get a better look at you.  The user is given the option to "delete program" or ...
+
+
+Script:
+
+- hello?
+- ...
+- world? ...anyone?
+[ say hello ]  [ say nothing ]
+
+
