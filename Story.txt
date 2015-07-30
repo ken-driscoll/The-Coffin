@@ -5,7 +5,7 @@
 Plot: The user starts recieving messages on a sudo-computer screen, as if communicating with someone.  The overall theme should be mysterious, and any opportunity to introduce a puzzle or twist should be encouraged.  The user starts cooresponding with the "other person" (OP), who has no memory his/her life or how he/she got there.  They can't see anything other than the computer screen and can't move.  This leads the "other person" to speculate that he/she is in a coffin and buried alive.
 
 Middle: 
-
+We need to lead the user to believe that the OP is actually alive and trapped in a coffin.  While we start to uncover clues, they need to be ambiuous, supporting the reality as well as the illusion.
 
 
 
