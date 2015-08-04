@@ -1,0 +1,108 @@
+{
+	"storyArray": [
+		{
+			"id": 0,
+			"userText": null,
+			"textArray" : [
+				"hello?",
+				"...",
+				"world? ...anyone?"
+			],
+			"option1": {
+				"text": "say hello",
+				"nextId": 1
+			},
+			"option2": {
+				"text": "say nothing",
+				"nextId": -1
+			}
+		},
+		{
+			"id": 1,
+			"userText": "hello",
+			"textArray" : [
+				"you can hear me???",
+				"oh thank god...i thought this might not work",
+				"please help me",
+				"get me out of here!!!"
+			],
+			"option1": {
+				"text": "where are you?",
+				"nextId": 2
+			},
+			"option2": {
+				"text": "who are you?",
+				"nextId": -1
+			}
+		},
+		{
+			"id": 2,
+			"userText": "where is /"here/"?",
+			"textArray" : [
+				"i...i don't know",
+				"in fact, there's not much I can tell you",
+				"it's dark here",
+				"like...really dark",
+				"i just woke up here...and it get's worse"
+			],
+			"option1": {
+				"text": "worse?",
+				"nextId": 3
+			},
+			"option2": {
+				"text": "don't care",
+				"nextId": -1
+			}
+		},
+		{
+			"id": 3,
+			"userText": "worse?",
+			"textArray" : [
+				"yeah...so in addition to not being able to see anything...",
+				"i can't move"
+				"...",
+				"at all"
+			],
+			"option1": {
+				"text": "at all?",
+				"nextId": 4
+			},
+			"option2": {
+				"text": "who are you?",
+				"nextId": -1
+			}
+		},
+		{
+			"id": 4,
+			"userText": "at all?",
+			"textArray" : [
+				"...yes",
+				"it's like i'm stuck
+			],
+			"option1": {
+				"text": "",
+				"nextId": -1
+			},
+			"option2": {
+				"text": "",
+				"nextId": -1
+			}
+		}
+	]
+}
+
+{
+			"id": ,
+			"userText": "",
+			"textArray" : [
+				
+			],
+			"option1": {
+				"text": "",
+				"nextId": -1
+			},
+			"option2": {
+				"text": "",
+				"nextId": -1
+			}
+		}
